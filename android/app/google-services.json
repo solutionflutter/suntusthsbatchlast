@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "355662870355",
+    "project_id": "suntusthsbatchlast",
+    "storage_bucket": "suntusthsbatchlast.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355662870355:android:eeaf1fa74515886e59d3a6",
+        "android_client_info": {
+          "package_name": "com.example.suntusthsbatchlast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355662870355-0a87b1mt0g4pv0rivb04anblopmpeduo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy9uXCnHVqpc5-7CQsjMYMCXf4zoq9-hI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355662870355-0a87b1mt0g4pv0rivb04anblopmpeduo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
